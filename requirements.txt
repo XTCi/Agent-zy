@@ -1,0 +1,24 @@
+dashscope==1.22.1
+fastapi==0.115.8
+loguru==0.7.3
+pydantic==2.10.6
+pydantic_settings==2.7.1
+PyJWT==2.10.1
+PyJWT==2.10.1
+Requests==2.32.3
+SQLAlchemy==2.0.38
+uvicorn[standard]==0.34.0
+mysqlclient==2.2.7
+mysql-connector-python==9.2.0
+openai==1.63.2
+langchain-openai==0.3.6
+langchain==0.3.19
+langchain-community==0.3.18
+langchain-core==0.3.37
+alibabacloud-bailian20231229== 2.0.0
+alibabacloud_credentials    == 0.3.6
+alibabacloud_openapi_util   == 0.2.2
+alibabacloud-tea            ==0.4.2
+alibabacloud_tea_openapi    ==0.3.13
+alibabacloud_tea_util       == 0.3.13
+alibabacloud_tea_xml        == 0.0.2
