@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+*.py[cod]
+*$py.class
+# 本地数据库
+local_qdrant/
+# 本地embedding模型
+local_model/
+# Virtual environments (conda/venv)
+venv/
+env/
+.venv/
+.conda/
+*.conda
+envs/
+
+# dotenv / secrets
+.env
+.env.*
+.env.local
+# VS Code / PyCharm settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite / local databases
+*.sqlite3
+*.db
+
+# Coverage & testing
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+.pytest_cache/
+.mypy_cache/
+
+# pyinstaller
+dist/
+build/
+
+# Packaging
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints
+
+# Gunicorn / Uvicorn
+gunicorn.pid
+
+# Frontend (Node.js)
+# 上传的测试文档
+backend/temp_files/
+
+# Frontend (Node.js)
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/coverage/
+frontend/*.local
+frontend/.DS_Store
